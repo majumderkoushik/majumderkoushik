@@ -9,6 +9,7 @@ I'm a dedicated React developer with a flair for crafting dynamic and user-frien
 - React.js
 - JavaScript (ES6+)
 - HTML5 & CSS3
+-Tailwind CSS
 - Node.js & Express (in progress!)
 - MongoDB (soon to be a database guru!)
 
